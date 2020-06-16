@@ -1,5 +1,4 @@
-# Part I: Introduction
-
+# Introduction
 
 ### Resources
 
